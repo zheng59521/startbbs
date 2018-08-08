@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+think_serialize:a:3:{i:0;a:9:{s:2:"id";i:1;s:3:"pid";i:0;s:4:"name";s:6:"首页";s:5:"alias";s:4:"Home";s:4:"link";s:1:"/";s:4:"icon";s:10:"fa fa-home";s:6:"target";s:5:"_self";s:6:"status";i:1;s:4:"sort";i:0;}i:1;a:9:{s:2:"id";i:2;s:3:"pid";i:0;s:4:"name";s:6:"版块";s:5:"alias";s:0:"";s:4:"link";s:10:"/category/";s:4:"icon";s:0:"";s:6:"target";s:5:"_self";s:6:"status";i:1;s:4:"sort";i:0;}i:2;a:9:{s:2:"id";i:3;s:3:"pid";i:0;s:4:"name";s:6:"文章";s:5:"alias";s:7:"article";s:4:"link";s:9:"/article/";s:4:"icon";s:0:"";s:6:"target";s:5:"_self";s:6:"status";i:1;s:4:"sort";i:0;}}
